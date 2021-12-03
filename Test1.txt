@@ -4,3 +4,4 @@ This is a test file. test again
 Hello world
 
 Test 123
+print(my_string2[my_string2.index(word_to_find):my_string2.index(word_to_find)+len(word_to_find)])
